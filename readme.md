@@ -2,7 +2,7 @@
 
 ## this test is base on amazon and google interview test so it's not a easy one
 
-\#(except if you are a genius like me 😎)
+### (except if you are a genius like me 😎)
 
 so this is a test that i did for a job interview
 and i said sh\*t it's not easy but it's not that hard
